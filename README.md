@@ -43,3 +43,4 @@ fx.js, where you get the Open Exchange Rates key.
 You need to modify each of these to use the new Config service that's defined in dependencies.js and registered in dependencies.js. The Config service simply reads the config.json file in the assessment's top level directory. You will also have to fill out config.json with your Facebook app keys, Stripe key, and Open Exchange Rates key.
 
 Once you have successfully entered your keys into config.json and modified the above 3 code locations to use the Config service, npm run watch will output a short phrase. Please enter that phrase in your browser to validate that you have successfully completed this exercise."# magesa.github.io"
+# magesa.github.io
